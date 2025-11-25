@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color para el borde cuando el campo está enfocado -->
+    <item android:color="@color/white" android:state_focused="true"/>
+    <!-- Color para el borde en estado normal (no enfocado) -->
+    <item android:color="#B3FFFFFF"/> <!-- Blanco con 70% de opacidad -->
+</selector>

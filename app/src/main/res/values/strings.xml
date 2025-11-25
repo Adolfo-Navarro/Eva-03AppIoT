@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eva02IoT-Adolfo</string>
+    <string name="app_version">1.0.0</string>
+        <string name="app_logo">Your App Logo</string>
+</resources>

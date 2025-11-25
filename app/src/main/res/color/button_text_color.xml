@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Este selector simple asegura que el color sea blanco en todos los estados -->
+    <item android:color="@color/white" />
+</selector>
